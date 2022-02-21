@@ -1,3 +1,3 @@
-module basic
+module square
 
 go 1.17
